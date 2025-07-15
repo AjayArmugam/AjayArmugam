@@ -1,78 +1,47 @@
-<!-- You can upload your own pixel banner or use this one -->
-<img src="https://opengameart.org/sites/default/files/forest_banner.png" width="100%" alt="Dev Banner"/>
+# Ajay Armugam
 
-# 🎮 Ajay's Dev Profile
-
-```
-🧠 Class       : AIML Adventurer  
-🎓 Education   : 3rd Year BTech, MJP BC Welfare College, Kamalapur  
-📍 Spawn Point : Telangana, India  
-⚔️ Weaponry    : Python | C++ | TensorFlow | OpenCV  
-🏆 Objective   : Use AI to solve real-world problems and explore deep tech
-```
+🚀 **BTech Student in AIML** | 🔍 Passionate about AI, ML & Robotics | 💻 Exploring the future through code
 
 ---
 
-## 🧰 Inventory – Tools & Skills
-
-### 💡 Languages
-- 🐍 Python
-- 💻 C++
-- ☕ Java
-- 🌐 JavaScript, HTML, CSS
-
-### 🤖 AI/ML & Data
-- 🔶 TensorFlow
-- 🔴 PyTorch
-- 📊 Scikit-learn, Pandas, NumPy
-- 📷 OpenCV
-
-### 🔧 Dev Tools
-- 🧠 Google Colab
-- 🛠️ VS Code
-- 🔁 Git & GitHub
-- ☁️ Firebase
+🎓 **Education**  
+BTech in Artificial Intelligence & Machine Learning (2022–2026)
 
 ---
 
-## 📈 Player Stats
+## 💡 About Me
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayarmugam&show_icons=true&theme=tokyonight)
+I'm a BTech student specializing in Artificial Intelligence and Machine Learning (AIML), with a strong interest in using technology to solve real-world problems. My focus lies in AI, robotics, and software development, and I enjoy working on hands-on projects that challenge and grow my skills.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayarmugam&layout=compact&theme=tokyonight)
+I thrive in dynamic environments where I can learn quickly, adapt fast, and contribute meaningfully. With experience in Python, C++, computer vision, and NLP, I’m always looking to apply my knowledge through internships, research, or innovative collaborations.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayarmugam&theme=tokyonight)
-
----
-
-## 🎯 Current Quests
-
-- 🔍 Research Internship – Searching for mentors & professors
-- ⚙️ AI Projects – Building real-time CV and NLP tools
-- 🧩 Open Source – Looking to contribute meaningfully
-- 💬 Networking – Connecting with devs and creators
+Let’s connect and explore opportunities to build something impactful together.
 
 ---
 
-## 📬 Message from the Base
+## 🛠️ Skills & Technologies
 
-```diff
-+ Keep learning
-+ Build consistently
-+ Collaborate with purpose
-- Don't fear failure. It's XP in disguise.
-```
+**Languages:**  
+🐍 Python | 💻 C++ | 🌐 HTML/CSS/JavaScript
 
----
+**AI/ML & Data Science:**  
+🧠 TensorFlow | 🔶 PyTorch | 🧪 Scikit-learn | 📊 Pandas | 📷 OpenCV
 
-## 🤝 Let's Connect
-
-```
-📡 Email     : ajayarmugam@gmail.com  
-🔗 LinkedIn  : [Add your LinkedIn link here]  
-🌐 Portfolio : [Your portfolio or GitHub Pages link here]  
-```
+**Tools & Platforms:**  
+🛠️ Git & GitHub | 🔎 Google Colab | 💻 VS Code 
 
 ---
 
-> ⚡ “
+## 📊 GitHub Stats
+
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayarmugam&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayarmugam&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayarmugam&theme=radical)
+
+---
+
+## 🧩 Interests & Goals
+
+- 🤖 Building intelligent systems & solving real-world challenges
