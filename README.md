@@ -2,10 +2,20 @@
 
 🎓 BTech Student in AIML | 💻 Building AI Projects | 📍 India
 
-## 🚀 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+## 📚 Skills
+
+### Programming
+![Python](https://img.shields.io/badge/Python-blue?style=plastic&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=plastic&logo=c%2B%2B)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn)
+
+### Tools
+![Colab](https://img.shields.io/badge/Colab-yellow?style=plastic&logo=google-colab)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=plastic&logo=visual-studio-code)
 
 ## 📊 GitHub Stats
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayarmugam&show_icons=true&theme=radical)
