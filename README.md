@@ -1,47 +1,20 @@
-# Ajay Armugam
+# Hi, I'm Ajay 👋
 
-🚀 **BTech Student in AIML** | 🔍 Passionate about AI, ML & Robotics | 💻 Exploring the future through code
+🎓 BTech Student in AIML | 💻 Building AI Projects | 📍 India
 
----
-
-🎓 **Education**  
-BTech in Artificial Intelligence & Machine Learning (2022–2026)
-
----
-
-## 💡 About Me
-
-I'm a BTech student specializing in Artificial Intelligence and Machine Learning (AIML), with a strong interest in using technology to solve real-world problems. My focus lies in AI, robotics, and software development, and I enjoy working on hands-on projects that challenge and grow my skills.
-
-I thrive in dynamic environments where I can learn quickly, adapt fast, and contribute meaningfully. With experience in Python, C++, computer vision, and NLP, I’m always looking to apply my knowledge through internships, research, or innovative collaborations.
-
-Let’s connect and explore opportunities to build something impactful together.
-
----
-
-## 🛠️ Skills & Technologies
-
-**Languages:**  
-🐍 Python | 💻 C++ | 🌐 HTML/CSS/JavaScript
-
-**AI/ML & Data Science:**  
-🧠 TensorFlow | 🔶 PyTorch | 🧪 Scikit-learn | 📊 Pandas | 📷 OpenCV
-
-**Tools & Platforms:**  
-🛠️ Git & GitHub | 🔎 Google Colab | 💻 VS Code 
-
----
+## 🚀 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ## 📊 GitHub Stats
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayarmugam&show_icons=true&theme=radical)
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayarmugam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayarmugam&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayarmugam&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayarmugam&theme=radical)
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayarmugam&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-## 🧩 Interests & Goals
-
-- 🤖 Building intelligent systems & solving real-world challenges
+_“Learning by building. Exploring AI, one line of code at a time.”_
