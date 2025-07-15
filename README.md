@@ -46,4 +46,6 @@
 ---
 
 _“Learning by building. Exploring AI, one line of code at a time.”_
+
+---
 📧 Email: [arumugamajay75@gmail.com](mailto:arumugamajay75@gmail.com)
