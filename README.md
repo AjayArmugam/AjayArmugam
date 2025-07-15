@@ -1,41 +1,37 @@
-# 🕹️ Ajay's Dev Quest
+<!-- You can upload your own pixel banner or use this one -->
+<img src="https://opengameart.org/sites/default/files/forest_banner.png" width="100%" alt="Dev Banner"/>
+
+# 🎮 Ajay's Dev Profile
 
 ```
-🎮 Class: AIML Adventurer  
-🧠 Level: 3rd Year BTech  
-📍 Spawn Point: India  
-⚔️ Weapon Type: Python | C++ | TensorFlow | OpenCV  
-🎯 Goal: Conquer real-world problems with AI, build futuristic tech, and explore research quests  
+🧠 Class       : AIML Adventurer  
+🎓 Education   : 3rd Year BTech, MJP BC Welfare College, Kamalapur  
+📍 Spawn Point : Telangana, India  
+⚔️ Weaponry    : Python | C++ | TensorFlow | OpenCV  
+🏆 Objective   : Use AI to solve real-world problems and explore deep tech
 ```
 
 ---
 
-## 🛠️ Inventory (Skills & Tools)
+## 🧰 Inventory – Tools & Skills
 
-```
-💡 Programming Languages:
-   - Python
-   - C++
-   - Java
-   - JavaScript
+### 💡 Languages
+- 🐍 Python
+- 💻 C++
+- ☕ Java
+- 🌐 JavaScript, HTML, CSS
 
-🧠 AI & ML Frameworks:
-   - TensorFlow
-   - PyTorch
-   - Scikit-learn
-   - OpenCV
+### 🤖 AI/ML & Data
+- 🔶 TensorFlow
+- 🔴 PyTorch
+- 📊 Scikit-learn, Pandas, NumPy
+- 📷 OpenCV
 
-🔧 Dev Tools:
-   - Git & GitHub
-   - VS Code
-   - Google Colab
-   - Firebase
-
-🌐 Web Tools:
-   - HTML
-   - CSS
-   - Bootstrap
-```
+### 🔧 Dev Tools
+- 🧠 Google Colab
+- 🛠️ VS Code
+- 🔁 Git & GitHub
+- ☁️ Firebase
 
 ---
 
@@ -49,38 +45,34 @@
 
 ---
 
-## 🧩 Active Quests
+## 🎯 Current Quests
 
-- 🔍 **Research Internship** – Searching for mentors in AI/ML
-- ⚙️ **AI Projects** – Working on real-time CV/NLP solutions
-- 🛡️ **Open Source Battles** – Exploring contribution opportunities
-- 🎯 **Skill Training** – Grinding TensorFlow, ROS, and deep learning
+- 🔍 Research Internship – Searching for mentors & professors
+- ⚙️ AI Projects – Building real-time CV and NLP tools
+- 🧩 Open Source – Looking to contribute meaningfully
+- 💬 Networking – Connecting with devs and creators
 
 ---
 
-## 📫 Message from Basecamp
+## 📬 Message from the Base
 
 ```diff
-+ Stay consistent
-+ Solve real problems
-+ Don't just build — build impact
-- Fear of failure = wasted XP
++ Keep learning
++ Build consistently
++ Collaborate with purpose
+- Don't fear failure. It's XP in disguise.
 ```
 
 ---
 
-## 🧙 Let’s Team Up
-
-If you're working on AI/ML projects, building smart tech, or just love code quests —  
-**connect with me** and let’s explore the map together.
+## 🤝 Let's Connect
 
 ```
-🏹 LinkedIn: [Your LinkedIn URL here]  
-🔭 Portfolio: [Your Portfolio or GitHub Pages]  
-🛰️ Reach me: ajayarmugam@gmail.com
+📡 Email     : ajayarmugam@gmail.com  
+🔗 LinkedIn  : [Add your LinkedIn link here]  
+🌐 Portfolio : [Your portfolio or GitHub Pages link here]  
 ```
 
 ---
 
-> ⚡ *"The future belongs to those who code it."*  
-> Ajay // AIML Explorer
+> ⚡ “
