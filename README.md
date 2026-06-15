@@ -1,6 +1,6 @@
 # Hi, I'm Ajay 👋
 
-🎓 BTech Student in AIML | 💻 Building AI&ML Projects | 📍 India
+🎓 BTech Graduate in AIML | 💻 Building AI&ML Projects | 📍 India
 
 ---
 
